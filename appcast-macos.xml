@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>OXI App macOS Updates</title>
+    <item>
+      <title>2.1.0</title>
+      <pubDate>Wed, 30 Sep 2026 14:23:51 +0000</pubDate>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/OXI-Instruments/OXI-Desktop-APP/releases/download/2.1.0/OXI_Desktop_v2.1.0_macOS.zip"
+        sparkle:version="21099"
+        sparkle:shortVersionString="2.1.0"
+        sparkle:edSignature="M2LMitG0UHNla2aovvF/G3+SpS7c0k8GsgbharveZ1r+Hwg8SHfDbLdvfAmVwnYUSitCUR2Uk+gJbNzUxhkvDA=="
+        length="27248934"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
